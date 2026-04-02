@@ -8,7 +8,7 @@ My name is Yurii Liakhor and I'm a Software Developer.
 
 ## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Code-Java-2bbc8a?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Framework-Spring%20BootV-2bbc8a?logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-2bbc8a?logo=springboot&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Tools-Apache%20Kafka-2bbc8a?logo=apachekafka&logoColor=white)
 ![React](https://img.shields.io/badge/Code-React-2bbc8a?logo=react&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-2bbc8a?logo=postgresql&logoColor=white)
